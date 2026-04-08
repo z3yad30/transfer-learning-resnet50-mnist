@@ -4,7 +4,7 @@
 
 ## 📘 Transfer Learning with ResNet-50
 
-```markdown
+
 # Transfer Learning with ResNet-50 for Image Classification
 
 ## 📌 Project Overview
@@ -53,6 +53,7 @@ The transfer learning approach demonstrates strong performance with significantl
 3. Launch Jupyter Notebook:
   ```bash
   jupyter notebook
+```
 Execute the notebook cells in order
 
 4. 📌 Key Takeaways
